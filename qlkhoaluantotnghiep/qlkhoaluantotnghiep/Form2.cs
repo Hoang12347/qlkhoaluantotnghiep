@@ -22,5 +22,6 @@ namespace qlkhoaluantotnghiep
 
         }
         //nhận xét và góp ý báo cáo 
+        //nhập điểm báo cáo 
     }
 }
